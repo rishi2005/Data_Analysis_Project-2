@@ -32,7 +32,7 @@ In this segment, the project focuses on metrics important to sellers and busines
 💸 Revenue Generation Patterns
 
 📌 Visualizations:
-Line charts of monthly sales trend
+Line charts of monthly sales trend:
 <img width="1280" height="740" alt="Figure_1" src="https://github.com/user-attachments/assets/29651f49-c8ea-4fe9-9604-8a3785b1c22b" />
 
 Purpose: Helps sellers target profitable regions, optimize inventory, and monitor seasonal trends.
@@ -54,22 +54,22 @@ This part dives into customer behavior and revenue contribution, focusing on ind
 🧠 RFM (Recency, Frequency, Monetary) Analysis
 
 📌 Visualizations:
-Line plots for monthly revenue trends
+Line plots for monthly revenue trends:
 <img width="1280" height="740" alt="Figure_2 1" src="https://github.com/user-attachments/assets/cc58becd-fb51-4518-9d97-ca9b0ab91db2" />
 
-State-Wise Revenue Performance
+State-Wise Revenue Performance:
 <img width="1280" height="740" alt="Figure_2 2" src="https://github.com/user-attachments/assets/9789b58a-9147-4724-81ef-9a8a5df3f9f2" />
 
-Top 10 Most Profitable Products
+Top 10 Most Profitable Products:
 <img width="1280" height="740" alt="Figure_2 3" src="https://github.com/user-attachments/assets/7768a5d6-45ad-4576-883b-b9c7533b21cb" />
 
-Top 10 High Value Customer By Total Spend
+Top 10 High Value Customer By Total Spend:
 <img width="1280" height="740" alt="Figure_2 4" src="https://github.com/user-attachments/assets/95ab6b43-94ed-4c54-b1ae-20d5260c70b2" />
 
-Distribution of Payment Method
+Distribution of Payment Method:
 <img width="1280" height="740" alt="Figure_2 5" src="https://github.com/user-attachments/assets/d04a57b8-cb68-4840-8e57-49afc5923848" />
 
-Sales Heatmap By Day And Hour
+Sales Heatmap By Day And Hour:
 <img width="1280" height="740" alt="Figure_2 6" src="https://github.com/user-attachments/assets/3cbdb42f-3c1c-4af1-887b-078b7ec10fe8" />
 
 Purpose: Enables marketing teams to segment customers, personalize offers, and improve user experience.
